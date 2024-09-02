@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MikaelBro/MikaelBro-cv-website.git/static/css/main.2b97f65c.css",
+    "main.js": "/MikaelBro/MikaelBro-cv-website.git/static/js/main.1b014233.js",
+    "index.html": "/MikaelBro/MikaelBro-cv-website.git/index.html",
+    "main.2b97f65c.css.map": "/MikaelBro/MikaelBro-cv-website.git/static/css/main.2b97f65c.css.map",
+    "main.1b014233.js.map": "/MikaelBro/MikaelBro-cv-website.git/static/js/main.1b014233.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b97f65c.css",
+    "static/js/main.1b014233.js"
+  ]
+}
